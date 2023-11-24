@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Recos/static/css/main.f855e6bc.css",
+    "main.js": "/Recos/static/js/main.407059ac.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Recos/static/js/787.d4aba7ab.chunk.js",
+    "static/media/Apple.png": "/Recos/static/media/Apple.85ca27f02bd2e5f8b9fb.png",
+    "static/media/Avocado.jpg": "/Recos/static/media/Avocado.b65e885eec2bd4bdfdf5.jpg",
+    "index.html": "/Recos/index.html",
+    "main.f855e6bc.css.map": "/Recos/static/css/main.f855e6bc.css.map",
+    "main.407059ac.js.map": "/Recos/static/js/main.407059ac.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Recos/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.407059ac.js"
+  ]
+}
